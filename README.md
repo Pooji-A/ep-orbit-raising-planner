@@ -38,7 +38,7 @@ sizing, anomaly response, and ops procedure design.
 
 ## Why this shape
 
-Real propulsion ops work isn't a single calculation — it's sizing a
+Real propulsion ops work isn't a single calculation ,rather, it's sizing a
 maneuver, planning its execution against real constraints (power,
 eclipse, ground contact), watching telemetry for off-nominal behavior,
 and having a defined response when something goes wrong. This project
